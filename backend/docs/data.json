@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "Hello",
+    "answer": "Hi there! How can I help you today?"
+  },
+  {
+    "id": 2,
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "id": 3,
+    "question": "Who are you?",
+    "answer": "I am your AI Assistant."
+  }
+]
