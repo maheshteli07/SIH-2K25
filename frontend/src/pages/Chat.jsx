@@ -14,7 +14,7 @@ const Chat = () => {
           <MicButton />
         </div>
       </div>
-      <div className="chat-container">
+      <div className="chat-containe.">
         <ChatBox />
       </div>
     </div>
