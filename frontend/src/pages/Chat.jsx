@@ -6,7 +6,7 @@ import './Pages.css';
 
 const Chat = () => {
   return (
-    <div className="page-container">
+    <div className="page-container.">
       <div className="chat-header">
         <h1>💬 AI Chat</h1>
         <div className="chat-controls">

@@ -17,7 +17,7 @@ const Settings = () => {
   };
 
   const handleSave = () => {
-    alert('Settings saved successfully!');
+    alert('Settings saved successfully.!');
     console.log('Saved settings:', settings);
   };
 

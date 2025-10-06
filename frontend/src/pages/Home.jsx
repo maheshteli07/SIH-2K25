@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="page-container">
       <div className="hero-section">
-        <h1 className="hero-title">🤖 Welcome to AI Assistant</h1>
+        <h1 className="hero-title">🤖 Welcome to AI Assistant!!!!</h1>
         <p className="hero-subtitle">
           Your intelligent companion for conversations, translations, and more!
         </p>
